@@ -1,0 +1,59 @@
+{ 
+    "basics": {
+        "name": "Avinash",
+        "label":"Developer",
+        "picture":"/images/avinash.jpg",
+        "email":"jgeorgeavinash@gmail.com",
+        "phone":"+91 8122105204",
+        "summary":"I am an ambitious student looking for work. I’d like to apply for the position of digital marketing fresher to learn more about viral and social media marketing. I enjoy writing blog posts and can speak English well",
+        "location":{
+            "address":"Gingee, Villupuram Dt, TamilNadu",
+            "postalCode":"604202",
+            "city":"Gingee",
+            "countryCode":"IN",
+            "region":"Tamil Nadu"},
+            "profiles":[{
+                "network": "LinkedIn",
+                "username": "georgeavin",
+                "url": "https://www.linkedin.com/in/george-avinash/"}]
+            },
+            "work":[{
+                "name": "TCS Company",
+                "position":"Full stack Developer",
+                "startDate": "2017-03-01",
+                "endDate": "2020-02-22",
+                "summary": "Worked on a project to develop an application for the company using React.js and Javascript"}],
+            "volunteer":[{ 
+                "organization": "Google Developers Group",
+                "position": "Developer",
+                "website": "https://www.googledevps.com",
+                "startDate": "2018-03-01",
+                "endDate":"2019-04-26"
+            }],
+            "education":[{
+                "institution": "Elumalai Polytechnic College",
+                "area": "Computer Science and Engineering",
+                "studyType": "Diploma",
+                "startDate": "2017-06-01",
+                "endDate": "2019-02-22"}],
+                "skills":[{
+                    "name": "Weblogic",
+                    "level": "Advanced"}],
+                "languages":[{
+                    "language": "English",
+                    "fluency": "Native speaker"}],
+                    "references":[{
+                        "reference":"Gopinath",
+                        "relationship":"Friend"}],
+                        "projects": [{
+                            "name": "Project",
+                            "startDate": "2019-01-01",
+                            "endDate": "2021-01-01",
+                            "description": "Description..."}],
+                            "highlights": [ "Won award at AIHacks 2016"],
+                        "interests": [{"name": "Wildlife"}]}
+                            
+
+
+                          
+                
